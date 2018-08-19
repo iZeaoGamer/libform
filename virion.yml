@@ -1,7 +1,6 @@
 name: libform
-antigen: tokyo\pmmp\libform
+main: tokyo\pmmp\libform\Main
 version: 0.3.1
-php:
-  - 7.2
+api: [3.0.0, 4.0.0]
 author: yuko_fuyutsuki
-description: It is a library that can handle various forms easily.
+description: It is a lib forms plugin.
